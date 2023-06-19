@@ -1,2 +1,3 @@
 # Python-Calculator
-Basic python calculator
+## Basic python calculator
+Use it for beginner tkinter projects.
